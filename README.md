@@ -10,6 +10,7 @@ Nghề nghiệp: <br>
 Sở thích: đam mê lập trình website, ứng dụng di động, phát triển game<br>
 + Xem phim, đọc sách, nghe nhạc, đi du lịch, ...<br>
 + Thích giao lưu kết bạn<br>
+<br>
 Website cá nhân: <br>
 + http://nguyenhuuthang.com <br>
 + http://huuthang.me <br>
